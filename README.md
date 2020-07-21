@@ -1,6 +1,6 @@
 Cash Flow platform for real estate investors.
 
-Static Live Demo: [Frontend Engineer	https://de.jooble.org/away/-3405276261206821240?extrlSrc=1]
+Static Live Demo: https://cashflow-p.netlify.app/
 
 ## Available Scripts
 
